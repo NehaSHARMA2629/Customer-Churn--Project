@@ -11,7 +11,7 @@ Services that each customer has signed up for – phone, multiple lines, interne
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-Conclusion for Customer Churn Project
+# Conclusion 
 1. Summary of Findings:
 
 The analysis of customer churn has provided critical insights into the factors influencing churn behavior. Key findings include:
