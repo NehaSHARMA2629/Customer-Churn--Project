@@ -12,7 +12,6 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 # Conclusion 
-# Conclusion for Customer Churn Project
 ## 1. Summary of Findings:
 
 The analysis of customer churn has provided critical insights into the factors influencing churn behavior. Key findings include:
